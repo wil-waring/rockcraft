@@ -7,7 +7,7 @@ generation of secure, stable and `OCI-compliant container images
 
 **Rockcraft offers a truly declarative way for building efficient container images.**
 By making use of existing Ubuntu tools like LXD_ and Multipass_, Rockcraft
-is able to compartmentalise typical container image builds into multiple
+is able to compartmentalize typical container image builds into multiple
 parts, each one being comprised of several independent lifecycle steps,
 allowing complex operations to be declared at build time.
 

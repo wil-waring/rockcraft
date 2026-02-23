@@ -13,7 +13,7 @@ tool (e.g. Docker, Podman, Kubernetes,...).
 
 Interoperability between rocks and other containers also extends to how
 container images are built, allowing rocks to be used as bases for existing
-build instructions, such as Dockerfiles, for further customisation and
+build instructions, such as Dockerfiles, for further customization and
 development.
 
 .. _what-sets-rocks-apart:
@@ -22,7 +22,7 @@ What sets rocks apart?
 ~~~~~~~~~~~~~~~~~~~~~~
 
 * **Opinionated and consistent design**: all rocks follow the same design,
-  aiming to minimise your full-stack disparity and adoption overhead, e.g.
+  aiming to minimize your full-stack disparity and adoption overhead, e.g.
 
   * :ref:`explanation-pebble` **is the official entrypoint for all
     rocks**, providing a predictable and powerful abstraction layer

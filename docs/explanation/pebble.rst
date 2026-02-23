@@ -9,7 +9,7 @@ Pebble
 
 Similar to other well-known process managers such as *supervisord*, *runit*, or
 *s6*, `Pebble`_ is a service manager that enables the seamless orchestration of
-a collection of local service processes as an organised set. The main difference
+a collection of local service processes as an organized set. The main difference
 is that `Pebble`_ has been designed with custom-tailored features that
 significantly enhance the overall container experience, making it the ideal
 candidate for the container's init process (also known as the entrypoint,
@@ -54,7 +54,7 @@ Pebble distinguishes itself from other similar tools (like `tini`_ and
 * **layering**: Pebble can stack multiple layers (represented as YAML files)
   into a single Pebble plan where all services are defined. With this layering
   mechanism, existing services can be overridden or re-configured;
-* **container-optimised init process**: as a rock's PID 1, Pebble acts as an
+* **container-optimized init process**: as a rock's PID 1, Pebble acts as an
   init process and thus offers:
 
   * support for multiple child processes,
