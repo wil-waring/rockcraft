@@ -6,7 +6,7 @@ Crafting
 .. toctree::
     :maxdepth: 1
 
-    migrate-to-chiselled-rock
+    migrate-to-chiseled-rock
     specify-a-base
     convert-to-pebble-layer
     add-internal-user-to-a-rock

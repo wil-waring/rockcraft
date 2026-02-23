@@ -1,6 +1,6 @@
 .. _how-to-migrate-a-docker-image-to-a-chiselled-rock:
 
-Migrate a Docker image to a chiselled rock
+Migrate a Docker image to a chiseled rock
 ==========================================
 
 Prerequisites
