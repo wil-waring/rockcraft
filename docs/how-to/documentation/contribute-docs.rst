@@ -12,7 +12,7 @@ as the markup language for the source files.
 Documentation structure
 -----------------------
 
-The Rockcraft documentation is organised according to the `Diátaxis framework`_.
+The Rockcraft documentation is organized according to the `Diátaxis framework`_.
 Additionally, some rules are used to ensure that code referred to by the
 documentation is kept up-to-date and tested thoroughly.
 
