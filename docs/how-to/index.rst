@@ -3,7 +3,7 @@
 How-to guides
 =============
 
-These guides accompany you through crafting, chiselling, and publishing rocks with
+These guides accompany you through crafting, chiseling, and publishing rocks with
 Rockcraft.
 
 
@@ -14,11 +14,11 @@ The starting point of a rock is a Rockcraft project, which defines what goes int
 rock and what machinery builds it. Once a project is complete, the rock can be packed
 either locally or remotely, and then published to an image registry.
 
-- :ref:`how-to-migrate-a-docker-image-to-a-chiselled-rock`
+- :ref:`how-to-migrate-a-docker-image-to-a-chiseled-rock`
 - :ref:`how-to-publish-a-rock-to-a-registry`
 
 
-Chiselling
+Chiseling
 ----------
 
 Containers often contain redundant or unneeded software in their baseline systems.
@@ -32,7 +32,7 @@ make them leaner.
 12-factor web app rocks
 -----------------------
 
-Rocks are especiallys suitable as containers for 12-factor apps and their components.
+Rocks are especially suitable as containers for 12-factor apps and their components.
 
 - :ref:`how-to-manage-a-12-factor-app-rock`
 
@@ -52,6 +52,6 @@ contribute to it.
 
     get-started
     crafting/index
-    chiselling/index
+    chiseling/index
     Rocks for 12-factor apps <web-app-rocks/index>
     documentation/index

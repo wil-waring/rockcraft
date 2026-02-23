@@ -4,7 +4,7 @@ Configure the build base for an Express app
 ===========================================
 
 When using the ``expressjs-framework`` extension, there are four different cases
-for customising the Ubuntu base and the Node.js version to be included.
+for customizing the Ubuntu base and the Node.js version to be included.
 The main differences between the cases are:
 
 - Whether to use the bare base or Ubuntu 24.04 base.
